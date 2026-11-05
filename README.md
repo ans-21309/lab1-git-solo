@@ -1,4 +1,4 @@
 # Lab 1 – git
 ## Autor: JA
-TestA
+TestAA
 ## Stopka
